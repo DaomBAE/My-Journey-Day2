@@ -11,3 +11,18 @@ button {
     padding-left: 16px;
     padding-right: 16px;
 }
+
+.login{
+    color: #737373;
+    float: right;
+}
+
+header{
+    padding: 25px;
+    margin-left: 145px;
+    margin-right: 145;
+}
+
+.firstbutton {
+    margin-left: 80px;
+}
